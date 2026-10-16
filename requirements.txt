@@ -1,0 +1,6 @@
+streamlit>=1.39,<2
+sarvamai>=0.1.37
+pydub>=0.25,<1
+requests>=2.32,<3
+audioop-lts>=0.2.1; python_version >= "3.13"
+python-dotenv>=1,<2

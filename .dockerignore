@@ -1,0 +1,12 @@
+.git
+.venv
+venv
+__pycache__
+*.py[cod]
+.env
+.env.*
+.streamlit/secrets.toml
+AudioRefine-main 2
+*.wav
+*.mp3
+*.mp4

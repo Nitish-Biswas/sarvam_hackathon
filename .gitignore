@@ -1,0 +1,17 @@
+# Local virtual environments and credentials
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Generated media and local runtime files
+*.wav
+*.mp3
+*.mp4
+__pycache__/
+*.py[cod]
+.streamlit/*
+!.streamlit/config.toml
+!.streamlit/
